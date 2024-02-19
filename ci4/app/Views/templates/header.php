@@ -1,7 +1,9 @@
 <!doctype html>
 <html>
 <head>
-    <title>CodeIgniter Tutorial</title>
+    
+     <h1 style="text-align: center;">Janson Pagharion</h1>
+        <p style="text-align: center;">BSCS-SF221</p>   
 </head>
 <body>
 
